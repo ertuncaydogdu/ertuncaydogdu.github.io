@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Ertunc Aydogdu"
   avatar           : "profile.png"
-  bio              : "I am a PhD. candidate at Tilburg University."
+  bio              : "I am a PhD. candidate in Finance at Tilburg University."
   location         : "Tilburg, Netherlands"
   employer         :
   # googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -98,7 +98,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/ertunç-aydoğdu-8bb16748/
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
