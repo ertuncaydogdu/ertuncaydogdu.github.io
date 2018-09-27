@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Contact"
+title: "Mailing Address"
 permalink: /contact/
 author_profile: true
 redirect_from:
