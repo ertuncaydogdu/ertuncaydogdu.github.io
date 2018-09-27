@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Codes"
+title: 
 permalink: /codes/
 author_profile: true
 redirect_from:
@@ -8,3 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Codes
+======
