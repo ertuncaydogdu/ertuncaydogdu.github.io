@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Ertunc Aydogdu's home on the web!
+About me!
+=========
 
-Lorem ipsum.
 
