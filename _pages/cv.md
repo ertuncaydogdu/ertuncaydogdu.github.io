@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics, Bogazici University, 2015
+* M.A. in Economics, Bogazici University, 2017
+* Ph.D in Finance, Tilburg University, 2023 (expected)
 
 Work experience
 ======
