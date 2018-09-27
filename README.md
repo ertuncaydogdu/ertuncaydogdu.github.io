@@ -1,1 +1,1 @@
-Welcome to my website! https://ertuncaydogdu.github.io/
+Welcome to my personal website! https://ertuncaydogdu.github.io/
