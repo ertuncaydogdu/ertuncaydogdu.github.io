@@ -17,9 +17,7 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  
+
 Skills
 ======
 * Programming languages 
@@ -28,16 +26,4 @@ Skills
   * R
   * Matlab 
   * Latex
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
