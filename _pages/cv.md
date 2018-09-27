@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Economics, Bogazici University, 2015
+* Ph.D in Business, Finance, Tilburg University, 2023 (expected)
 * M.A. in Economics, Bogazici University, 2017
-* Ph.D in Finance, Tilburg University, 2023 (expected)
+* B.S. in Economics, Bogazici University, 2015
 
 Work experience
 ======
