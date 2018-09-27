@@ -1,14 +1,13 @@
 ---
-permalink: /
+layout: archive
 title: 
-excerpt: "About me"
+permalink: /about/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+  - /about
 ---
 
+{% include base_path %}
+
 About me!
-=========
-
-
+======
