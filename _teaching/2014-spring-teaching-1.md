@@ -7,6 +7,3 @@ venue: "Bogazici University, Economics Department"
 date: 2016-02-01
 location: "Istanbul, Turkey"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
