@@ -20,10 +20,3 @@ Work experience
 
 Skills
 ======
-* Programming languages 
-  * C/C++
-  * Phyton 2.7
-  * R
-  * Matlab 
-  * Latex
-
