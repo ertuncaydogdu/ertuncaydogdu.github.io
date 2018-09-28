@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ertunc Aydogdu"
+title                    : "Ertunç Aydoğdu"
 title_separator          : "-"
-name                     : &name "Ertunc"
+name                     : &name "Ertunç"
 description              : &description "PhD. Candidate at Tilburg University"
 url                      : https://ertuncaydogdu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ertunc Aydogdu"
+  name             : "Ertunç Aydoğdu"
   avatar           : "profile.png"
   bio              : "I am a PhD. candidate in Finance at Tilburg University."
   location         : "Tilburg, Netherlands"
