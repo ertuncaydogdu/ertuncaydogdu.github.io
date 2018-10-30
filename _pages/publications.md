@@ -9,11 +9,4 @@ author_profile: true
   {% include archive-resource.html %}
 {% endfor %}
 
-{% for post in site.resources%}
-  {% include archive-resource.html %}
-{% endfor %}
-
-{% for post in site.resources%}
-  {% include archive-resource.html %}
-{% endfor %}
 
