@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-**Mailing Address**
+<p style="margin-left: 40px"><b>Mailing Address</b></p>
+
 <p style="margin-left: 40px">Tilburg University
 <br>Department of Finance 
 <br>Room XXXX
