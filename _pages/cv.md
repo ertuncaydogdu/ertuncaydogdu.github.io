@@ -13,9 +13,12 @@ A pdf version of my CV is available ...
 
 Education
 ======
-* Ph.D in Business, Finance, Tilburg University, 2023 (expected)
-* M.A. in Economics, Bogazici University, 2017
-* B.S. in Economics, Bogazici University, 2015
+
+<p style="margin-left: 40px">Ph.D in Business, Finance, Tilburg University, 2023 (expected)
+<br>M.A. in Economics, Bogazici University, 2017
+<br>B.S. in Economics, Bogazici University, 2015
+
+
 
 Fields of Interest
 ======
