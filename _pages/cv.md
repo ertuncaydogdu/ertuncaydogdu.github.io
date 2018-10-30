@@ -23,6 +23,11 @@ Education
 Fields of Interest
 ======
 
+<p style="margin-left: 40px"> (Empirical) Industrial Organization, Behavioral (Corporate) Finance, Applied (Structural) Econometrics </p>
+
+
+
+
 Conferences and Presentations
 ======
 
