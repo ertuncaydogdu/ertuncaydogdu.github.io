@@ -9,11 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-{% for post in site.resources%}
-  {% include archive-resource.html %}
-{% endfor %}
-
-A pdf version of my CV is available ...
+A pdf version of my CV is available at [CV](https://ertuncaydogdu.github.io/files/ACH_2017.pdf)
 
 Education
 ======
