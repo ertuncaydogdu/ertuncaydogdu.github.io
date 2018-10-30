@@ -16,6 +16,8 @@ author_profile: true
 
 # Statistics
 
+A brief, semi-technical comparison of the es- sential features of the frequentist and Bayesian approaches to statistical infer- ence, with several illustrative examples implemented in Python. (avaialble at [**here**](https://ertuncaydogdu.github.io/files/Frequentism.and.Bayesianism.pdf).
+
 ## Classical Probability (Frequentist) Approach
 
 {% for post in site.publications%}
