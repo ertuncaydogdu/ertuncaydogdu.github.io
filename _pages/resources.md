@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Community resources"
+title:
 permalink: /resources/
 author_profile: true
 ---
