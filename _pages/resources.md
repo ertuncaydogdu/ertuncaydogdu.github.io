@@ -27,5 +27,8 @@ Econometrics
 Statistics
 ===
 
+{% for post in site.publications%}
+  {% include archive-resource.html %}
+{% endfor %}
 
 
