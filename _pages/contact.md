@@ -13,12 +13,12 @@ redirect_from:
 <br>Department of Finance 
 <br>Room XXXX
 <br>PO Box XXXX
-<br>5000 LE Tilburg
+<br>XXXX Tilburg
 <br>The Netherlands </p>
 
-<p style="margin-left: 40px">ph: XXXXXXXXXXXX
-<br>fax: XXXXXXXXXXXX
-<br>alt: XXXXXXXXXXXX (secretary)</p>
+<p style="margin-left: 40px">ph: XXXX
+<br>fax: XXXX
+<br>alt: XXXX (secretary)</p>
 
 
 
