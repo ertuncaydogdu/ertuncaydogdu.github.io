@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+{% for post in site.resources%}
+  {% include archive-resource.html %}
+{% endfor %}
+
 A pdf version of my CV is available ...
 
 Education
