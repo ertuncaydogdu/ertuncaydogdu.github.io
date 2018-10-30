@@ -1,13 +1,15 @@
 # Authors
 
+# Authors
+
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  name        : "Ertunç Aydoğdu"
+  uri         : "https://ertuncaydogdu.github.io"
+  email       : "e.aydogdu@uvt.nl"
+  bio         :
+  avatar      :
+  twitter     :
+  google_plus :
 
 Name2 Name2:
   name        : "Name2 Name2"
