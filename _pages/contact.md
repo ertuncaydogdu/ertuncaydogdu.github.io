@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+**Mailing Address**
 <p style="margin-left: 40px">Tilburg University
 <br>Department of Finance 
 <br>Room XXXX
@@ -16,9 +17,9 @@ redirect_from:
 <br>XXXX Tilburg
 <br>The Netherlands </p>
 
-<p style="margin-left: 40px">ph: XXXX
-<br>fax: XXXX
-<br>alt: XXXX (secretary)</p>
+<p style="margin-left: 40px">Phone: XXXX
+<br>Fax: XXXX
+<br>Alt: XXXX (secretary)</p>
 
 
 
