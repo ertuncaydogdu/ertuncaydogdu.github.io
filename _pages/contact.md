@@ -14,8 +14,7 @@ redirect_from:
 <br>Department of Finance 
 <br>Room XXXX
 <br>PO Box XXXX
-<br>XXXX Tilburg
-<br>The Netherlands </p>
+<br>XXXX Tilburg, the Netherlands </p>
 
 <p style="margin-left: 40px">Phone: XXXX
 <br>Fax: XXXX
