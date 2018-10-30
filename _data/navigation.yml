@@ -6,14 +6,30 @@ main:
   - title: "Teaching"
     url: /teaching/  
     
-  - title: "Codes"
-    url: /codes/  
-     
-  # - title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "Resources"
+    url: /resources/  
     
   - title: "Resume"
     url: /cv/
 
   - title: "Contact"
     url: /contact/
+
+
+  # - title: "Publications"
+  #   url: /publications/
+  #
+  # - title: "Talks"
+  #   url: /talks/
+
+  # - title: "Teaching"
+  #   url: /teaching/
+  #
+  # - title: "Portfolio"
+  #   url: /portfolio/
+  #
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
+  # - title: "Conference Proceedings"
+  #   url: /proceedings/
