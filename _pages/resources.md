@@ -20,10 +20,12 @@ available for *personal use only*), GitHub repositories
 Econometrics
 ===
 
-Statistics
-===
-
 {% for post in site.resources%}
   {% include archive-resource.html %}
 {% endfor %}
+
+Statistics
+===
+
+
 
