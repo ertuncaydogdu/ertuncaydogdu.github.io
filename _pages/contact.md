@@ -14,12 +14,11 @@ redirect_from:
 <br>Room XXXX
 <br>PO Box XXXX
 <br>5000 LE Tilburg
-<br>The Netherlands \\
-  
-<br>ph: XXXXXXXXXXXX
-<br>fax: XXXXXXXXXXXX
-<br>alt: XXXXXXXXXXXX (secretary)
+<br>The Netherlands </p>
 
+<p style="margin-left: 40px">ph: XXXXXXXXXXXX
+<br>fax: XXXXXXXXXXXX
+<br>alt: XXXXXXXXXXXX (secretary)</p>
 
 
 
