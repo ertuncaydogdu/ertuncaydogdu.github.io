@@ -17,6 +17,12 @@ available for *personal use only*), GitHub repositories
 (<i class="fa fa-github" aria-hidden="true"></i>), OSF projects
 (<i class="ai ai-fw ai-osf"></i>), and miscellaneous information (<b>∼</b>).
 
+## Econometrics
+
+## Statistics
+
+
 {% for post in site.resources%}
   {% include archive-resource.html %}
 {% endfor %}
+
