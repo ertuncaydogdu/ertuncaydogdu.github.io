@@ -9,5 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Mailing Address
-======
+Tilburg University
+Department of Finance 
+Room XXXX
+PO Box XXXX
+5000 LE Tilburg
+The Netherlands
+
+ph: XXXXXXXXXXXX
+fax: XXXXXXXXXXXX
+alt: XXXXXXXXXXXX (secretary)
