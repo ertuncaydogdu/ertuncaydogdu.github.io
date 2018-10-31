@@ -20,7 +20,7 @@ author_profile: true
 
 ## Classical (Frequentist) Approach
 
-{% for post in site.bayesianism%}
+{% for post in site.frequentism%}
   {% include archive-resource.html %}
 {% endfor %}
 
