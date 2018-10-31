@@ -9,6 +9,24 @@ author_profile: true
 
 ## Econometrics
 
+Some background materials:
+
+* XXX
+* YYY
+
+### Econometrics I
+
+{% for post in site.resources%}
+  {% include archive-resource.html %}
+{% endfor %}
+
+### Bayesian Econometrics
+
+{% for post in site.resources%}
+  {% include archive-resource.html %}
+{% endfor %}
+
+### Financial Econometrics
 
 {% for post in site.resources%}
   {% include archive-resource.html %}
