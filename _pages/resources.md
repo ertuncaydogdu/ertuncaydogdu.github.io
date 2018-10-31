@@ -7,24 +7,24 @@ author_profile: true
 
 {% include base_path %}
 
-# Econometrics
+## Econometrics
 
 
 {% for post in site.resources%}
   {% include archive-resource.html %}
 {% endfor %}
 
-# Statistics
+## Statistics
 
 * [**VanderPlas (SciPy, 2014)**](https://ertuncaydogdu.github.io/files/Frequentism.and.Bayesianism.pdf) provides a brief, semi-technical comparison of the essential features of the frequentist and Bayesian approaches to statistical inference, with several illustrative examples implemented in Python.
 
-## Classical (Frequentist) Approach
+### Classical (Frequentist) Approach
 
 {% for post in site.frequentism%}
   {% include archive-resource.html %}
 {% endfor %}
 
-## Bayesian Approach
+### Bayesian Approach
 
 {% for post in site.bayesianism%}
   {% include archive-resource.html %}
