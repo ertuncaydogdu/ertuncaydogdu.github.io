@@ -1,10 +1,9 @@
 ---
-title: "Frame-differencing method"
+title: "bwlf"
 collection: resources
-permalink: /resources/fdm
-citation: '<b>Frame-differencing method</b>. MATLAB code for measuring body
-movement and interpersonal synchrony from videos. Development supported by the
-NSF under grants BCS-0826825 and BCS-0926670.'
-paperurl: 'https://ertuncaydogdu.github.io/files/hansen.pdf'
-# githuburl: 'http://github.com/a-paxton/fdm'
+permalink: /resources/bwlf
+citation: '<b>bwlf</b>. Code to help get text data into recurrence-ready
+analysis form. Development supported by the NSF under grants BCS-0826825 and
+BCS-0926670.'
+githuburl: 'https://ertuncaydogdu.github.io/files/ACH_2017.pdf'
 ---
