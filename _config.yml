@@ -188,6 +188,9 @@ collections:
   bayesianism:
     output: true
     permalink: /:collection/:path/
+  frequentism:
+    output: true
+    permalink: /:collection/:path/    
 
 
 # Defaults
@@ -262,6 +265,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _frequentism
+  - scope:
+      path: ""
+      type: frequentism
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true      
 
 # Sass/SCSS
 sass:
