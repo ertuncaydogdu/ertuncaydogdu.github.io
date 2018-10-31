@@ -21,11 +21,11 @@ author_profile: true
 ## Classical (Frequentist) Approach
 
 {% for post in site.frequentism%}
-  {% include archive-single-cv.html %}
+  {% include archive-resource.html %}
 {% endfor %}
 
 ## Bayesian Approach
 
 {% for post in site.bayesianism%}
-  {% include archive-single-cv.html %}
+  {% include archive-resource.html %}
 {% endfor %}
