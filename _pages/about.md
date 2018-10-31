@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "About me!"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+## About me!
 
 <p style="margin-left: 40px">I am a second-year RM/Ph.D. student at the University of Tilburg, Department of Finance. My fields of interest are Industrial Organization, Behavioral Finance, and Applied Microeconometrics. </p>
 
