@@ -26,6 +26,6 @@ author_profile: true
 
 ## Bayesian Approach
 
-{% for post in site.publications%}
+{% for post in site.bayesianism%}
   {% include archive-resource.html %}
 {% endfor %}
