@@ -20,12 +20,12 @@ author_profile: true
 
 # Classical (Frequentist) Approach
 
-{% for post in site.frequentism%}
+{% for post in site.resources%}
   {% include archive-resource.html %}
 {% endfor %}
 
 # Bayesian Approach
 
-{% for post in site.bayesianism%}
+{% for post in site.publications%}
   {% include archive-resource.html %}
 {% endfor %}
