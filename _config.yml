@@ -190,16 +190,16 @@ collections:
     permalink: /:collection/:path/
   frequentism:
     output: true
-    permalink: /:collection/:path/    
+    permalink: /:collection/:path/
   EIO-1:
     output: true
-    permalink: /:collection/:path/    
+    permalink: /:collection/:path/
   EIO-2:
     output: true
-    permalink: /:collection/:path/    
+    permalink: /:collection/:path/
   IOTheory:
     output: true
-    permalink: /:collection/:path/    
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -282,7 +282,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true      
+      comments: true
   # _EIO-1
   - scope:
       path: ""
@@ -291,7 +291,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true      
+      comments: true
   # _EIO-2
   - scope:
       path: ""
@@ -300,7 +300,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true      
+      comments: true
   # _IOTheory
   - scope:
       path: ""
@@ -309,7 +309,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true      
+      comments: true
 
 # Sass/SCSS
 sass:
