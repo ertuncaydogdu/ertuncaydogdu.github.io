@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
    - /about/
    - /about.html
 ---
@@ -12,4 +12,4 @@ redirect_from:
 
 <p style="margin-left: 40px">I am a second-year RM/Ph.D. student at the University of Tilburg, Department of Finance. My fields of interest are Industrial Organization, Behavioral Finance, and Applied Microeconometrics. </p>
 
-<p style="margin-left: 40px"> I am specifically interested in the learning, expectation formation and decision-making processes of economic agents, and any potential biases that might arise during these processes. I believe that quantifying welfare losses associated with rational and/or irrational attitudes of the decision-makers is inherently important for the real as well as financial sector of an economy. </p>
+<p style="margin-left: 40px"> I am specifically interested in the learning, expectation formation and decision-making processes of economic agents, and any potential biases that might arise during these processes. I believe that quantifying welfare losses associated with rational and/or irrational attitudes of the decision-makers is inherently important for the demand and supply side of an economy. </p>
