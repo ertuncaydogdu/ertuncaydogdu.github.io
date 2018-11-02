@@ -191,6 +191,15 @@ collections:
   frequentism:
     output: true
     permalink: /:collection/:path/    
+  EIO-1:
+    output: true
+    permalink: /:collection/:path/    
+  EIO-2:
+    output: true
+    permalink: /:collection/:path/    
+  IOTheory:
+    output: true
+    permalink: /:collection/:path/    
 
 
 # Defaults
@@ -269,6 +278,33 @@ defaults:
   - scope:
       path: ""
       type: frequentism
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true      
+  # _EIO-1
+  - scope:
+      path: ""
+      type: EIO-1
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true      
+  # _EIO-2
+  - scope:
+      path: ""
+      type: EIO-2
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true      
+  # _IOTheory
+  - scope:
+      path: ""
+      type: IOTheory
     values:
       layout: single
       author_profile: true
