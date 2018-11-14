@@ -1,0 +1,213 @@
+\documentclass[11pt,reqno]{amsart}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+%\usepackage{epstopdf}
+\usepackage{hyperref}
+\usepackage[left=1in,right=1in,top=0.7in,bottom=0.6in]{geometry}
+\usepackage{multirow}
+\usepackage{verbatim}
+\usepackage{fancyhdr}
+\usepackage{harvard}
+\usepackage{pdfpages}
+\usepackage{booktabs}
+%\usepackage[small,compact]{titlesec} 
+
+%\usepackage{pxfonts}
+%\usepackage{isomath}
+\usepackage{mathpazo}
+%\usepackage{arev} %     (Arev/Vera Sans)
+%\usepackage{eulervm} %_   (Euler Math)
+%\usepackage{fixmath} %  (Computer Modern)
+%\usepackage{hvmath} %_   (HV-Math/Helvetica)
+%\usepackage{tmmath} %_   (TM-Math/Times)
+%\usepackage{cmbright}
+%\usepackage{ccfonts} \usepackage[T1]{fontenc}
+%\usepackage[garamond]{mathdesign}
+%\usepackage{libertine}
+\usepackage{color}
+\usepackage[normalem]{ulem}
+
+
+\usepackage{rotating} %% To perform all the different sorts of rotation
+\usepackage{array} %% An extended implementation of the array and tabular environments
+\usepackage{lscape} %%  Landscape orientation
+\usepackage{setspace} %% Finely control line spacing
+\usepackage{subfig} %% Manipulation and reference of small or sub figures and tables  
+\usepackage{color, colortbl}
+\usepackage{caption} 
+\captionsetup[table]{skip=6pt}
+\usepackage{color}
+\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
+\usepackage{hyperref}
+\hypersetup{
+     colorlinks   = true,
+     citecolor    = gray
+}
+\hypersetup{linkcolor=blue}
+
+
+\definecolor{name}{system}{definition}
+\definecolor{Gray}{gray}
+
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{conjecture}{Conjecture}[section]
+\newtheorem{corollary}{Corollary}[section]
+\newtheorem{lemma}{Lemma}[section]
+\newtheorem{proposition}{Proposition}[section]
+\newtheorem{assumption}{}[section]
+\renewcommand{\theassumption}{A\arabic{assumption}}
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}[section]
+
+\newtheorem{step}{Step}[section]
+\newtheorem{remark}{Comment}[section]
+\newtheorem{example}{Example}[section]
+\newtheorem*{example*}{Example}
+
+\linespread{1.1}
+
+\pagestyle{fancy}
+%\renewcommand{\sectionmark}[1]{\markright{#1}{}}
+\fancyhead{}
+\fancyfoot{} 
+%\fancyhead[LE,LO]{\tiny{\thepage}}
+\fancyhead[CE,CO]{\tiny{\rightmark}}
+\fancyfoot[C]{\small{\thepage}}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\fancypagestyle{plain}{%
+\fancyhf{} % clear all header and footer fields
+\fancyfoot[C]{\small{\thepage}} % except the center
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}}
+
+\makeatletter
+\renewcommand{\@maketitle}{
+  \null 
+  \begin{center}%
+    \rule{\linewidth}{1pt} 
+    {\Large \textbf{\textsc{\@title}}} \par
+    {\small \textsc{Ertunc Aydogdu (U888855)}} \par
+    {\small \textsc{\@date}} \par
+    \rule{\linewidth}{1pt} 
+  \end{center}%
+  \par \vskip 0.9em
+}
+\makeatother
+
+\newcommand{\argmax}{\operatornamewithlimits{arg\,max}}
+\newcommand{\argmin}{\operatornamewithlimits{arg\,min}}
+\def\inprobLOW{\rightarrow_p}
+\def\inprobHIGH{\,{\buildrel p \over \rightarrow}\,} 
+\def\inprob{\,{\inprobHIGH}\,} 
+\def\indist{\,{\buildrel d \over \rightarrow}\,} 
+\def\F{\mathbb{F}}
+\def\R{\mathbb{R}}
+\newcommand{\gmatrix}[1]{\begin{pmatrix} {#1}_{11} & \cdots &
+    {#1}_{1n} \\ \vdots & \ddots & \vdots \\ {#1}_{m1} & \cdots &
+    {#1}_{mn} \end{pmatrix}}
+\newcommand{\iprod}[2]{\left\langle {#1} , {#2} \right\rangle}
+\newcommand{\norm}[1]{\left\Vert {#1} \right\Vert}
+\newcommand{\abs}[1]{\left\vert {#1} \right\vert}
+\renewcommand{\det}{\mathrm{det}}
+\newcommand{\rank}{\mathrm{rank}}
+\newcommand{\spn}{\mathrm{span}}
+\newcommand{\row}{\mathrm{Row}}
+\newcommand{\col}{\mathrm{Col}}
+\renewcommand{\dim}{\mathrm{dim}}
+\newcommand{\prefeq}{\succeq}
+\newcommand{\pref}{\succ}
+\newcommand{\seq}[1]{\{{#1}_n \}_{n=1}^\infty }
+\renewcommand{\to}{{\rightarrow}}
+
+\providecommand{\En}{\mathbb{E}_n}
+\providecommand{\Gn}{\mathbb{G}_n}
+\providecommand{\Er}{{\mathrm{E}}}
+\renewcommand{\Pr}{{\mathrm{P}}}
+\providecommand{\set}[1]{\left\{#1\right\}}
+\providecommand{\plim}{\operatornamewithlimits{plim}}
+\newcommand\indep{\protect\mathpalette{\protect\independenT}{\perp}}
+\def\independenT#1#2{\mathrel{\setbox0\hbox{$#1#2$}%
+    \copy0\kern-\wd0\mkern4mu\box0}} 
+
+\renewcommand{\cite}{\citeasnoun}
+
+\title{Empirical Industrial Organization - II}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Computational Exercise III}
+
+Implement the MPEC approach to maximum likelihood estimation of our structural model, as advocated by \textbf{Judd and Su (2012)}. \\
+
+\begin{itemize}
+    \item First modify \texttt{negLogLik} so that it takes $(U_0, U_1)$ or $\Delta U$ as an input argument (instead of solving the model for them) and computes the log (partial) likelihood directly from the choice probabilities implied by $\Delta U$. \\
+    
+    \item Then, extend the script in \texttt{dynamicDiscreteChoice.m} so that it alternatively maximizes the log likelihood with respect to both the parameters of interest and the values of $\Delta U$, subject to the constraint on $\Delta U$ implied by $U = \Psi(U)$ (which can be specified using the function \texttt{bellman}). \\
+    
+\end{itemize}
+
+Would you expect the NFXP and MPEC approaches to give the same estimates of the parameters of interest (up to numerical precision)? How is the relative numerical performance of both procedures? Which one is faster? Compare your results to those in \textbf{Ishakov et al. (2016)} and explain. \\
+
+\textsc{Solution:}
+
+
+\begin{table}[!htb]
+\centering
+\newcolumntype{Y}{>{\raggedleft\arraybackslash}X}
+	\caption{NFXP vs. MPEC Estimates}
+\begin{tabular}{l *{3}{c} }
+\midrule
+\textbf{\textit{Parameters}}& NFXP Estimates & MPEC Estimates \\
+\toprule
+\midrule
+\beta_0  & -0.5022 & -0.5022 \\
+\beta_1  & 0.1996 & 0.1996 \\
+\delta_1 & 0.9868 & 0.9868 \\ \bottomrule
+\textit{\_time} & 0.7394 & 2.0379 \\ \bottomrule
+\addlinespace[.75ex]
+\end{tabular}
+\label{table:table2}
+\end{table}
+
+\begin{table}[!htb]
+\centering
+\newcolumntype{Y}{>{\raggedleft\arraybackslash}X}
+	\caption{MPEC estimates of the the fixed point $U_{a}(X, A)$ of the Bellman-like operator $\Psi$}
+\begin{tabular}{ccccccc}
+ \hline 
+ & \multicolumn{2}{c}{$a = 0$} & \multicolumn{4}{c}{$a = 1$}\\
+ \cmidrule(r){2-3} \cmidrule(r){5-7}
+ & $A = 0$ & $A = 1$  & & $A = 0$ & $A = 1$ &   \\
+ \toprule
+\midrule
+ $X^{1}$ \quad & 9.8375  & 9.8375 & & 8.9907 & 9.9792 \\
+ $X^{2}$ \quad & 9.8805  & 9.8805 & & 9.2538 & 10.2423 \\
+ $X^{3}$ \quad & 9.9432  & 9.9432 & & 9.5416 & 10.5301 \\
+ $X^{4}$ \quad & 10.0105  & 10.0105 & & 9.8338 & 10.8223 \\
+ $X^{5}$ \quad & 10.0645 & 10.0645 &  & 10.1076  & 11.0961  \\ \toprule \hline
+\end{tabular}
+\label{table:table2}
+\end{table}
+
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
