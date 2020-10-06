@@ -16,18 +16,3 @@ redirect_from:
 
 <p style="margin-left: 40px">Phone: XXXX
 <br>Fax: XXXX
-<br>Alt: XXXX (secretary)</p>
-
-
-
-, , room K 641
- Tilburg
-Netherlands
-
-
-
-
-
-
-
-
