@@ -15,7 +15,7 @@ A pdf version of my CV is available at [**here**](https://ertuncaydogdu.github.i
 Education
 ======
 
-<p style="margin-left: 40px">Ph.D in Business, Finance, Tilburg University, 2022 (expected)
+<p style="margin-left: 40px">Ph.D in Business, Finance, Tilburg University, 2023 (expected)
 <br>M.A. in Economics, Bogazici University, 2017
 <br>B.S. in Economics, Bogazici University, 2015</p>
 
