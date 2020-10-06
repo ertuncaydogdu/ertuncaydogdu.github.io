@@ -23,4 +23,4 @@ Education
 Fields of Interest
 ======
 
-<p style="margin-left: 40px"> Industrial Organization, Applied Microeconomics, Behavioral Finance </p>
+<p style="margin-left: 40px"> Household Finance, Credit Markets, (Empirical) Industrial Organization, Applied Microeconomics </p>
