@@ -12,7 +12,7 @@ redirect_from:
 <p style="margin-left: 40px"><b>Mailing Address</b>
 <br>Warandelaan 2
 <br>Koopmans Building, Room K-641  
-<br>5037AB Tilburg, Netherlands </p>
+<br>5037 AB Tilburg, Netherlands </p>
 
 <p style="margin-left: 40px">Phone: XXXX
 <br>Fax: XXXX
