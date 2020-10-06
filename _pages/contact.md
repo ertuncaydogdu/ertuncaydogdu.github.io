@@ -10,11 +10,9 @@ redirect_from:
 {% include base_path %}
 
 <p style="margin-left: 40px"><b>Mailing Address</b>
-<br>Tilburg University
-<br>Department of Finance 
-<br>Room XXXX
-<br>PO Box XXXX
-<br>XXXX Tilburg, Netherlands </p>
+<br>Warandelaan 2
+<br>Koopmans Building, Room K-641  
+<br>5037AB Tilburg, Netherlands </p>
 
 <p style="margin-left: 40px">Phone: XXXX
 <br>Fax: XXXX
@@ -22,6 +20,9 @@ redirect_from:
 
 
 
+, , room K 641
+ Tilburg
+Netherlands
 
 
 
